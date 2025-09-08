@@ -1,8 +1,8 @@
 ## Hi, I'm Benjamín Moraga 👋
 
-I'm a **software developer** with experience in **Backend** and **Full Stack Development**. Currently, I'm expanding my skills in **Frontend** while working on projects that combine the best of both worlds. I'm passionate about creating efficient solutions and learning new technologies to stay up-to-date in this ever-evolving field.
+I'm a **software developer** with experience in **Mobile Development** and **Backend**. Currently, I'm expanding my skills in **Mobile** while working on projects that combine the best of both worlds. I'm passionate about creating efficient solutions and learning new technologies to stay up-to-date in this ever-evolving field.
 
-- 🌱 Currently learning **React with TypeScript** and exploring new tools.
+- 🌱 Currently learning new technologies and exploring new tools.
 - 💻 Developing applications and personal projects, which you can find in this repository.
 
 ### 📫 How to reach me
